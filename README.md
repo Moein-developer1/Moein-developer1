@@ -9,7 +9,7 @@ A Front-end Web developer
 
 ## :technologist: About me :
 
-I am a junior developer who started learning coding 1 year ago , after ending high school . I started with HTML and I have really found a passion for front-end development . I am currently learning new technologies . My expertise is in HTML, CSS and JS fields and I am currently learning Tailwind and Bootstrap frameworks. I am looking for opportunities to expand my work experience and continue learning. You can check out my projects on GitHub and connect with me on LinkedIn .
+I'm a junior Front-end Web developer who started learning coding 1 year ago , after ending high school . I started with HTML and I have really found a passion for front-end development . I am currently learning new technologies . My expertise is in HTML, CSS and JS fields and I am currently learning Tailwind and Bootstrap frameworks. I am looking for opportunities to expand my work experience and continue learning. You can check out my projects on GitHub and connect with me on LinkedIn .
 
 ----------------------
   
