@@ -9,7 +9,7 @@ A Front-end Web developer
 
 ## :technologist: About me :
 
-I'm a junior Front-end web developer who started learning coding a year ago , right after graduating high school . I started with HTML and I have really found a passion for front-end web development . I'm currently learning new skills of coding which will be necessary to know in the future . My expertise is in HTML, CSS and JS fields and I am currently learning Tailwind and Bootstrap frameworks. I am looking for opportunities to expand my work experience and continue learning. You can check out my projects on GitHub and connect with me on LinkedIn .
+I'm a junior Front-end web developer who started learning coding a year ago, right after finishing high school. I started with HTML and I have really found a passion for front-end web development. I'm currently learning new skills of coding which will be necessary to know in the future. My expertise is in HTML, CSS and JS fields and I am currently learning React JS frameworks. I am looking for opportunities to expand my work experience and continue learning. You can check out my projects on GitHub and connect with me on LinkedIn .
 
 ----------------------
   
@@ -17,7 +17,7 @@ I'm a junior Front-end web developer who started learning coding a year ago , ri
 
 * 🌍  I'm based in Tehran - Iran
 * ✉️  You can contact me at [moeinghiasvand11@gmail.com](mailto:moeinghiasvand11@gmail.com)
-* 🧠  I'm learning Tailwind & Bootstrap
+* 🧠  I'm learning React JS
 * ⚡  Now I'm ready to cooperate with companies or individuals
 
 ### Skills
@@ -28,6 +28,8 @@ I'm a junior Front-end web developer who started learning coding a year ago , ri
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="BOOTSTRAP" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="BOOTSTRAP" /></a>
 </p>
 
 
